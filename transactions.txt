@@ -1,0 +1,4 @@
+290520200926, 123123 "X - Sue Grafton" 9.99 5 10% $44.96, 5/29/20, 09:26:51 PM EDT 
+290520200926, 22222 "W Is For Wasted - Sue Grafton" 9.95 15 15% $126.86, 5/29/20, 09:26:51 PM EDT 
+290520200929, 1111 "Top Secret Twenty One - Janet Evanovich" 8.99 54 20% $388.37, 5/29/20, 09:29:50 PM EDT
+290520200929, 123456789 "The Bourne Ultimatum - Robert Ludlum" 15.25 30 20% $366.00, 5/29/20, 09:29:50 PM EDT
